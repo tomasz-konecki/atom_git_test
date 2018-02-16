@@ -4,3 +4,8 @@ body {
 h1 {
   color: #fff;
 }
+.box {
+  width: 200px;
+  height: 200px;
+  background: crimson;
+}
